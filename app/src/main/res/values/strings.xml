@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">410570011簡語萱</string>
+    <string name="app_title">猜字謎遊戲</string>
+    <string name="tv_riddle">謎題</string>
+    <string name="textView2">猜字</string>
+    <string name="hint">您的答案</string>
+    <string name="tv_result">結果</string>
+    <string name="btn_riddle">出題</string>
+    <string name="btn_answer">答題</string>
+    <string name="btn_reAnswer">重答</string>
+    <string name="btn_showAnswer">看謎底</string>
+</resources>
